@@ -16,6 +16,7 @@
 		C3DB8FDD27660909008EB57D /* North_East_South_WestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3DB8FDC27660909008EB57D /* North_East_South_WestTests.swift */; };
 		C3DB8FE727660909008EB57D /* North_East_South_WestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3DB8FE627660909008EB57D /* North_East_South_WestUITests.swift */; };
 		C3DB8FE927660909008EB57D /* North_East_South_WestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3DB8FE827660909008EB57D /* North_East_South_WestUITestsLaunchTests.swift */; };
+		C3DB8FF627660C97008EB57D /* DirectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3DB8FF527660C97008EB57D /* DirectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C3DB8FE227660909008EB57D /* North East South WestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "North East South WestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3DB8FE627660909008EB57D /* North_East_South_WestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = North_East_South_WestUITests.swift; sourceTree = "<group>"; };
 		C3DB8FE827660909008EB57D /* North_East_South_WestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = North_East_South_WestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C3DB8FF527660C97008EB57D /* DirectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DirectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C3DB8FC527660904008EB57D /* AppDelegate.swift */,
 				C3DB8FC727660904008EB57D /* SceneDelegate.swift */,
 				C3DB8FC927660904008EB57D /* ViewController.swift */,
+				C3DB8FF527660C97008EB57D /* DirectionViewController.swift */,
 				C3DB8FCB27660904008EB57D /* Main.storyboard */,
 				C3DB8FCE27660909008EB57D /* Assets.xcassets */,
 				C3DB8FD027660909008EB57D /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3DB8FF627660C97008EB57D /* DirectionViewController.swift in Sources */,
 				C3DB8FCA27660904008EB57D /* ViewController.swift in Sources */,
 				C3DB8FC627660904008EB57D /* AppDelegate.swift in Sources */,
 				C3DB8FC827660904008EB57D /* SceneDelegate.swift in Sources */,
